@@ -30,4 +30,4 @@ Also possible:
 sudo ./spnegoDown.py -i eth0,eth1 -l downgrade_out.txt
 ```
 ### Example Output
-![Example Output of spnegoDown.py](https://github.com/csandker/spnegoDown/edit/master/example_output.png)
+![Example Output of spnegoDown.py](example_output.png)
