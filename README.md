@@ -4,7 +4,7 @@ Microsoft's SPNEGO protocol is a less well known sub protocol used by higher lev
 
 ## Technical Background
 
-A blog post explained the technical background coming soon...
+A blog post explaining the technical background can be found here:<br> https://contextis.com/blog/downgrade-spnego-authentication
 
 ## Setup
 The downgrade attack requires the attacker to be able to receive and modify network packets (best results can be achieved in a Man-in-the-Middle position).<br>
